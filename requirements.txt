@@ -1,5 +1,5 @@
 tensorflow
-re
+regex
 pandas
 numpy
-sklearn
+scikit-learn
